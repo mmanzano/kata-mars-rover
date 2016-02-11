@@ -1,5 +1,5 @@
 {
-    "name": "php-test-bootstrap",
+    "name": "test-template",
     "require-dev": {
         "phpunit/phpunit": "4.5.*"
     },
