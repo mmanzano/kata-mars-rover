@@ -1,6 +1,6 @@
 <?php
 
-namespace Code\Test;
+namespace CodeTest;
 
 use Code\Whatever;
 
